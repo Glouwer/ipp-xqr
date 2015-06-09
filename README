@@ -1,2 +1,8 @@
-# ipp-xqr
-wasdas
+Skript provadi vyhodnoceni zadaneho dotazu, jenz je podobny prikazu SELECT
+jazyka SQL, nad vstupem ve formatu XML. Vystupem je XML obsahujici elementy
+splnujici pozadavky dane dotazem. Dotazovaci jazyk ma zjednodusene podminky
+a syntaxi.
+
+Priklad spusteni : 
+
+--input=file.in --output=file.out --query='SELECT book FROM library WHERE id > 500'
