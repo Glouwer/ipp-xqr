@@ -3,6 +3,6 @@ jazyka SQL, nad vstupem ve formatu XML. Vystupem je XML obsahujici elementy
 splnujici pozadavky dane dotazem. Dotazovaci jazyk ma zjednodusene podminky
 a syntaxi.
 
-Priklad spusteni : 
+Priklad parametru : 
 
 --input=file.in --output=file.out --query='SELECT book FROM library WHERE id > 500'
