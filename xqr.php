@@ -1,6 +1,8 @@
 <?php
 #script written in utf-8
 #XQR:xjurik08
+#IPP - Principy programovacich jazyku a OOP
+#XML Query v PHP 5
 class Pomocna {
     var $input;
     var $output;
